@@ -1,6 +1,6 @@
-# Nepali & English Document Search (RAG retrieval)
+# Nepali Law Document Search (RAG retrieval)
 
-Semantic search over public documents in Nepali and English, built with LangChain, FAISS and
+Semantic search over public documents English, built with LangChain, FAISS and
 multilingual Hugging Face embeddings. Returns cited passages (file + page) and says "not found"
 when nothing is close enough.
 
