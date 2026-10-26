@@ -1,0 +1,7 @@
+[
+  {"question": "How many hours can an employer make a worker work per day?", "source": "labour_act.pdf", "keyword": "forty-eight hours"},
+  {"question": "What rest must workers get after continuous work?", "source": "labour_act.pdf", "keyword": "half an hour rest"},
+  {"question": "How much extra pay is due for overtime work?", "source": "labour_act.pdf", "keyword": "1.5 times"},
+  {"question": "Can a foreign woman married to a Nepali citizen get citizenship?", "source": "constitution_english.pdf", "keyword": "matrimonial relationship"},
+  {"question": "Who decides other matters about acquiring and ending citizenship?", "source": "constitution_english.pdf", "keyword": "reacquisition and termination of citizenship"}
+]
